@@ -1,7 +1,7 @@
 <?php
 // Skill type is indicated by the first digit of the NOC code.
 $noc_2006['skill_type'] = array(
-    0 => "Management occupations"
+    0 => "Management occupations",
     1 => "Business, finance and administration occupations",
     2 => "Natural and appliced sciences and related occupations",
     3 => "Health occupations",
@@ -79,8 +79,7 @@ $noc_2006['major_groups'] = array(
     "92" => "Processing, Manufacturing and Utilities Supervisors and Skilled Operators",
     "94" => "Processing and Manufacturing Machine Operators and Assemblers",
     "95" => "Processing and Manufacturing Machine Operators and Assemblers",
-    "96" => "Labourers in Processing, Manufacturing and Utilities)";
-    
+    "96" => "Labourers in Processing, Manufacturing and Utilities)",
 );
 
 // Thank you ScraperWiki
